@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da96d87a-e9f1-4615-a6fa-04e89ac985f8" width="300">
+  <br>
+  <sub>Immagine di <a href="https://www.freepik.com/author/catalyststuff">catalyststuff</a> su Freepik</sub>
+</p>
 ### Bio
+
 I'm Luca, a 24 years old Computer And AI Engineer with strong passion for Machine learning and Deep Learning applications and Web App Dev.
 I'm currently completing my master Degree At Politecnico di Torino as Computer Engineer with focus on AI curriculum.
 
@@ -34,4 +40,49 @@ I prefer working with Agile processes, with effective and transparent communicat
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Assembly](https://img.shields.io/badge/assembly-%236E4C13.svg?style=for-the-badge&logo=webassembly&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/matlab-%23ED1C24.svg?style=for-the-badge&logo=matlab&logoColor=white)
+
+### Tools
+Jupiter Notebook
+MondoDB
+SQlite
+Postman
+Docker
+Wsl
+Pythorch
+Git
+Express
+Socket.io
+Leaflet
+OpenCV
+Redis
+Fuse
+Matlab
+#### AI 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+#### Backend & Databases
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+#### Frontend & Web Tools
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-%23199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white)
+#### DevOps and Systems
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-blue?style=for-the-badge&logo=windows&logoColor=white)
+#### Methodologies
+![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-00A2E8?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Waterfall](https://img.shields.io/badge/Waterfall-525252?style=for-the-badge&logo=icloud&logoColor=white)
+
                 =========================== TO BE CONTINUED =========================
