@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da96d87a-e9f1-4615-a6fa-04e89ac985f8" width="300">
-  <br>
-  <sub>Immagine di <a href="https://www.freepik.com/author/catalyststuff">catalyststuff</a> su Freepik</sub>
+  <image src="https://github.com/user-attachments/assets/00a1fb41-aa90-4ac9-8495-46df559971a2" width="500">
 </p>
 
 ### Bio
